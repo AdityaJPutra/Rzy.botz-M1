@@ -3,9 +3,9 @@
 
 
 let fs = require('fs')
-global.owner = ['6285785694474', '6285785694474','6285828764046','6285828764046','6285828764046'] // Letakan nomor kamu disini
+global.owner = ['62881023471561'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
-  // nama: 'https://website'
+  // xteam: 'https://api.xteam.xyz'
   hardianto: 'https://hardianto-chan.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -23,7 +23,7 @@ global.APIs = { // API Prefix
 
 }
 global.APIKeys = { // APIKey nya disini
-  // 'https://website': 'apikey'
+  // 'https://api.lolhuman.xyz': 'ed6c4f2c72b6f92f7d201464'
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
@@ -40,8 +40,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Rzy-bot'
-global.author = 'Rzy-bot'
+global.packname = 'MillBot'
+global.author = 'AdityaJPutra'
 
 global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
 global.eror = '「❗」Server ERROR!'
